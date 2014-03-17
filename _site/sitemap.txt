@@ -1,0 +1,11 @@
+
+http://blog.yangjunrui.com/archive.html
+http://blog.yangjunrui.com/atom.xml
+http://blog.yangjunrui.com/categories.html
+http://blog.yangjunrui.com/index.html
+http://blog.yangjunrui.com/pages.html
+http://blog.yangjunrui.com/rss.xml
+http://blog.yangjunrui.com/sitemap.txt
+http://blog.yangjunrui.com/tags.html
+
+http://blog.yangjunrui.com/lessons/2011/12/29/jekyll-introduction
